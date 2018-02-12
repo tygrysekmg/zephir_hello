@@ -1,0 +1,1 @@
+-I/opt/remi/php71/root/usr/include/php -I/opt/remi/php71/root/usr/include/php/main -I/opt/remi/php71/root/usr/include/php/TSRM -I/opt/remi/php71/root/usr/include/php/Zend -I/opt/remi/php71/root/usr/include/php/ext -I/opt/remi/php71/root/usr/include/php/ext/date/lib
